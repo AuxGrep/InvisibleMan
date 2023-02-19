@@ -13,9 +13,9 @@ ENJOY
 The information provided here is for educational purposes only. I am in no way responsible for any misuse of the information provided. All the information here is meant to provide the reader with the knowledge to defend against hackers and prevent the attacks.
 
 # SETUP
-```1. sudo git clone https://github.com/AuxGrep/InvisibleMan```
-```2. sudo chmod +x setup.sh```
-```3. cd InvisibleMan ```
+1.sudo git clone https://github.com/AuxGrep/InvisibleMan
+2.sudo chmod +x setup.sh
+3.cd InvisibleMan
 
 # RUN
 ```sudo python3 control_server.py ```
